@@ -125,7 +125,7 @@ def render_home() -> None:
         ):
             with st.spinner("Running analysis…"):
                 try:
-                    parsed = parse_question(question, catalog_skus, api_key)
+                    parsed = parse_question(question, catalog_skus)
 
                     valid_ids = [s["id"] for s in catalog_skus]
                     sku_id    = parsed.get("sku_id") or (valid_ids[0] if valid_ids else "")
