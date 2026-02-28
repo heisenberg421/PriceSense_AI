@@ -1,0 +1,27 @@
+# Secrets — never commit these
+.env
+.streamlit/secrets.toml
+
+# Python
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+notebooks/
+
+# HuggingFace model cache (downloaded at runtime)
+.cache/

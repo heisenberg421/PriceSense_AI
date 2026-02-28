@@ -1,0 +1,16 @@
+# Web framework
+streamlit>=1.35.0
+
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# AI / LLM
+openai>=1.30.0
+sentence-transformers>=2.7.0
+
+# sentence-transformers pulls these in, but pinning avoids
+# version conflicts on Streamlit Community Cloud
+torch>=2.0.0
+transformers>=4.30.0
+huggingface-hub>=0.20.0

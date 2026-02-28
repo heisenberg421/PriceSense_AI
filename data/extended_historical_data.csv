@@ -1,0 +1,265 @@
+sku,name,category,week,price,cost,promo_flag,discount,units_sold
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,1,4.99,2.1,0,0.0,815
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,2,4.99,2.1,0,0.0,762
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,3,4.99,2.1,0,0.0,803
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,4,4.99,2.1,0,0.0,793
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,5,4.99,2.1,0,0.0,800
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,6,4.99,2.1,0,0.0,782
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,7,4.99,2.1,0,0.0,778
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,8,4.99,2.1,0,0.0,795
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,9,4.99,2.1,0,0.0,808
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,10,4.99,2.1,0,0.0,769
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,11,4.99,2.1,0,0.0,805
+WAT_SPK_6,Sparkling Water 6-pack,Beverage,12,4.24,2.1,1,0.15,1614
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,1,7.49,3.5,0,0.0,645
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,2,7.49,3.5,0,0.0,648
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,3,7.49,3.5,0,0.0,625
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,4,7.49,3.5,0,0.0,624
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,5,7.49,3.5,0,0.0,680
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,6,7.49,3.5,0,0.0,701
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,7,7.49,3.5,0,0.0,638
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,8,7.49,3.5,0,0.0,662
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,9,6.37,3.5,1,0.15,1339
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,10,7.49,3.5,0,0.0,610
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,11,7.49,3.5,0,0.0,656
+WAT_SPK_12,Sparkling Water 12-pack,Beverage,12,7.49,3.5,0,0.0,586
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,1,12.99,6.8,0,0.0,409
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,2,12.99,6.8,0,0.0,413
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,3,11.04,6.8,1,0.15,798
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,4,12.99,6.8,0,0.0,421
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,5,10.39,6.8,1,0.2,853
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,6,12.99,6.8,0,0.0,414
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,7,12.99,6.8,0,0.0,383
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,8,12.99,6.8,0,0.0,389
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,9,12.99,6.8,0,0.0,399
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,10,12.99,6.8,0,0.0,394
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,11,12.99,6.8,0,0.0,368
+WAT_SPK_24,Sparkling Water 24-pack,Beverage,12,12.99,6.8,0,0.0,384
+WAT_STL_12,Still Water 12-pack,Beverage,1,5.99,2.4,0,0.0,929
+WAT_STL_12,Still Water 12-pack,Beverage,2,5.99,2.4,0,0.0,910
+WAT_STL_12,Still Water 12-pack,Beverage,3,5.99,2.4,0,0.0,892
+WAT_STL_12,Still Water 12-pack,Beverage,4,5.99,2.4,0,0.0,952
+WAT_STL_12,Still Water 12-pack,Beverage,5,5.09,2.4,1,0.15,1810
+WAT_STL_12,Still Water 12-pack,Beverage,6,5.99,2.4,0,0.0,881
+WAT_STL_12,Still Water 12-pack,Beverage,7,5.99,2.4,0,0.0,953
+WAT_STL_12,Still Water 12-pack,Beverage,8,5.99,2.4,0,0.0,859
+WAT_STL_12,Still Water 12-pack,Beverage,9,5.99,2.4,0,0.0,937
+WAT_STL_12,Still Water 12-pack,Beverage,10,5.99,2.4,0,0.0,913
+WAT_STL_12,Still Water 12-pack,Beverage,11,5.99,2.4,0,0.0,853
+WAT_STL_12,Still Water 12-pack,Beverage,12,5.99,2.4,0,0.0,896
+WAT_FLV_12,Flavored Water 12-pack,Beverage,1,8.49,3.9,0,0.0,552
+WAT_FLV_12,Flavored Water 12-pack,Beverage,2,6.79,3.9,1,0.2,1207
+WAT_FLV_12,Flavored Water 12-pack,Beverage,3,8.49,3.9,0,0.0,599
+WAT_FLV_12,Flavored Water 12-pack,Beverage,4,8.49,3.9,0,0.0,565
+WAT_FLV_12,Flavored Water 12-pack,Beverage,5,8.49,3.9,0,0.0,558
+WAT_FLV_12,Flavored Water 12-pack,Beverage,6,8.49,3.9,0,0.0,521
+WAT_FLV_12,Flavored Water 12-pack,Beverage,7,8.49,3.9,0,0.0,510
+WAT_FLV_12,Flavored Water 12-pack,Beverage,8,8.49,3.9,0,0.0,555
+WAT_FLV_12,Flavored Water 12-pack,Beverage,9,8.49,3.9,0,0.0,553
+WAT_FLV_12,Flavored Water 12-pack,Beverage,10,7.22,3.9,1,0.15,1127
+WAT_FLV_12,Flavored Water 12-pack,Beverage,11,8.49,3.9,0,0.0,563
+WAT_FLV_12,Flavored Water 12-pack,Beverage,12,8.49,3.9,0,0.0,581
+LOT_HND_SM,Hand Lotion Small,Personal Care,1,3.49,1.2,0,0.0,319
+LOT_HND_SM,Hand Lotion Small,Personal Care,2,2.97,1.2,1,0.15,601
+LOT_HND_SM,Hand Lotion Small,Personal Care,3,2.97,1.2,1,0.15,606
+LOT_HND_SM,Hand Lotion Small,Personal Care,4,3.49,1.2,0,0.0,296
+LOT_HND_SM,Hand Lotion Small,Personal Care,5,3.49,1.2,0,0.0,278
+LOT_HND_SM,Hand Lotion Small,Personal Care,6,3.49,1.2,0,0.0,293
+LOT_HND_SM,Hand Lotion Small,Personal Care,7,3.49,1.2,0,0.0,294
+LOT_HND_SM,Hand Lotion Small,Personal Care,8,3.49,1.2,0,0.0,287
+LOT_HND_SM,Hand Lotion Small,Personal Care,9,3.49,1.2,0,0.0,297
+LOT_HND_SM,Hand Lotion Small,Personal Care,10,3.49,1.2,0,0.0,306
+LOT_HND_SM,Hand Lotion Small,Personal Care,11,3.49,1.2,0,0.0,328
+LOT_HND_SM,Hand Lotion Small,Personal Care,12,3.49,1.2,0,0.0,302
+LOT_HND_MD,Hand Lotion Medium,Personal Care,1,6.99,2.8,0,0.0,250
+LOT_HND_MD,Hand Lotion Medium,Personal Care,2,6.99,2.8,0,0.0,280
+LOT_HND_MD,Hand Lotion Medium,Personal Care,3,6.99,2.8,0,0.0,247
+LOT_HND_MD,Hand Lotion Medium,Personal Care,4,6.99,2.8,0,0.0,253
+LOT_HND_MD,Hand Lotion Medium,Personal Care,5,6.99,2.8,0,0.0,249
+LOT_HND_MD,Hand Lotion Medium,Personal Care,6,6.99,2.8,0,0.0,235
+LOT_HND_MD,Hand Lotion Medium,Personal Care,7,6.99,2.8,0,0.0,264
+LOT_HND_MD,Hand Lotion Medium,Personal Care,8,5.94,2.8,1,0.15,514
+LOT_HND_MD,Hand Lotion Medium,Personal Care,9,6.99,2.8,0,0.0,259
+LOT_HND_MD,Hand Lotion Medium,Personal Care,10,6.99,2.8,0,0.0,242
+LOT_HND_MD,Hand Lotion Medium,Personal Care,11,6.99,2.8,0,0.0,254
+LOT_HND_MD,Hand Lotion Medium,Personal Care,12,6.99,2.8,0,0.0,249
+LOT_BDY_LG,Body Lotion Large,Personal Care,1,11.99,5.1,0,0.0,200
+LOT_BDY_LG,Body Lotion Large,Personal Care,2,10.19,5.1,1,0.15,400
+LOT_BDY_LG,Body Lotion Large,Personal Care,3,11.99,5.1,0,0.0,192
+LOT_BDY_LG,Body Lotion Large,Personal Care,4,11.99,5.1,0,0.0,197
+LOT_BDY_LG,Body Lotion Large,Personal Care,5,11.99,5.1,0,0.0,198
+LOT_BDY_LG,Body Lotion Large,Personal Care,6,11.99,5.1,0,0.0,206
+LOT_BDY_LG,Body Lotion Large,Personal Care,7,11.99,5.1,0,0.0,212
+LOT_BDY_LG,Body Lotion Large,Personal Care,8,11.99,5.1,0,0.0,200
+LOT_BDY_LG,Body Lotion Large,Personal Care,9,11.99,5.1,0,0.0,211
+LOT_BDY_LG,Body Lotion Large,Personal Care,10,11.99,5.1,0,0.0,208
+LOT_BDY_LG,Body Lotion Large,Personal Care,11,11.99,5.1,0,0.0,202
+LOT_BDY_LG,Body Lotion Large,Personal Care,12,9.59,5.1,1,0.2,427
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,1,1.79,0.85,0,0.0,1260
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,2,1.79,0.85,0,0.0,1209
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,3,1.79,0.85,0,0.0,1163
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,4,1.79,0.85,0,0.0,1149
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,5,1.52,0.85,1,0.15,2455
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,6,1.79,0.85,0,0.0,1217
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,7,1.79,0.85,0,0.0,1215
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,8,1.79,0.85,0,0.0,1220
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,9,1.79,0.85,0,0.0,1159
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,10,1.79,0.85,0,0.0,1213
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,11,1.79,0.85,0,0.0,1217
+YOG_GRK_8,Greek Yogurt 8oz,Dairy,12,1.79,0.85,0,0.0,1157
+YOG_REG_8,Regular Yogurt 8oz,Dairy,1,1.29,0.55,0,0.0,1586
+YOG_REG_8,Regular Yogurt 8oz,Dairy,2,1.29,0.55,0,0.0,1438
+YOG_REG_8,Regular Yogurt 8oz,Dairy,3,1.29,0.55,0,0.0,1572
+YOG_REG_8,Regular Yogurt 8oz,Dairy,4,1.29,0.55,0,0.0,1530
+YOG_REG_8,Regular Yogurt 8oz,Dairy,5,1.29,0.55,0,0.0,1561
+YOG_REG_8,Regular Yogurt 8oz,Dairy,6,1.29,0.55,0,0.0,1642
+YOG_REG_8,Regular Yogurt 8oz,Dairy,7,1.29,0.55,0,0.0,1481
+YOG_REG_8,Regular Yogurt 8oz,Dairy,8,1.1,0.55,1,0.15,2973
+YOG_REG_8,Regular Yogurt 8oz,Dairy,9,1.29,0.55,0,0.0,1540
+YOG_REG_8,Regular Yogurt 8oz,Dairy,10,1.29,0.55,0,0.0,1387
+YOG_REG_8,Regular Yogurt 8oz,Dairy,11,1.29,0.55,0,0.0,1499
+YOG_REG_8,Regular Yogurt 8oz,Dairy,12,1.29,0.55,0,0.0,1531
+MILK_OAT_64,Oat Milk 64oz,Dairy,1,4.99,2.3,0,0.0,662
+MILK_OAT_64,Oat Milk 64oz,Dairy,2,4.99,2.3,0,0.0,716
+MILK_OAT_64,Oat Milk 64oz,Dairy,3,3.99,2.3,1,0.2,1484
+MILK_OAT_64,Oat Milk 64oz,Dairy,4,4.99,2.3,0,0.0,691
+MILK_OAT_64,Oat Milk 64oz,Dairy,5,4.99,2.3,0,0.0,711
+MILK_OAT_64,Oat Milk 64oz,Dairy,6,4.99,2.3,0,0.0,717
+MILK_OAT_64,Oat Milk 64oz,Dairy,7,4.99,2.3,0,0.0,695
+MILK_OAT_64,Oat Milk 64oz,Dairy,8,4.99,2.3,0,0.0,711
+MILK_OAT_64,Oat Milk 64oz,Dairy,9,4.99,2.3,0,0.0,774
+MILK_OAT_64,Oat Milk 64oz,Dairy,10,3.99,2.3,1,0.2,1601
+MILK_OAT_64,Oat Milk 64oz,Dairy,11,4.99,2.3,0,0.0,684
+MILK_OAT_64,Oat Milk 64oz,Dairy,12,4.99,2.3,0,0.0,727
+GRA_ORG_12,Granola Organic 12oz,Snacks,1,5.49,2.6,0,0.0,464
+GRA_ORG_12,Granola Organic 12oz,Snacks,2,5.49,2.6,0,0.0,425
+GRA_ORG_12,Granola Organic 12oz,Snacks,3,5.49,2.6,0,0.0,420
+GRA_ORG_12,Granola Organic 12oz,Snacks,4,5.49,2.6,0,0.0,433
+GRA_ORG_12,Granola Organic 12oz,Snacks,5,5.49,2.6,0,0.0,426
+GRA_ORG_12,Granola Organic 12oz,Snacks,6,5.49,2.6,0,0.0,423
+GRA_ORG_12,Granola Organic 12oz,Snacks,7,5.49,2.6,0,0.0,460
+GRA_ORG_12,Granola Organic 12oz,Snacks,8,4.39,2.6,1,0.2,1034
+GRA_ORG_12,Granola Organic 12oz,Snacks,9,5.49,2.6,0,0.0,461
+GRA_ORG_12,Granola Organic 12oz,Snacks,10,5.49,2.6,0,0.0,461
+GRA_ORG_12,Granola Organic 12oz,Snacks,11,5.49,2.6,0,0.0,461
+GRA_ORG_12,Granola Organic 12oz,Snacks,12,5.49,2.6,0,0.0,536
+VIT_D_60,Vitamin D 60ct,Health,1,9.99,3.5,0,0.0,179
+VIT_D_60,Vitamin D 60ct,Health,2,9.99,3.5,0,0.0,175
+VIT_D_60,Vitamin D 60ct,Health,3,9.99,3.5,0,0.0,163
+VIT_D_60,Vitamin D 60ct,Health,4,9.99,3.5,0,0.0,183
+VIT_D_60,Vitamin D 60ct,Health,5,9.99,3.5,0,0.0,176
+VIT_D_60,Vitamin D 60ct,Health,6,7.99,3.5,1,0.2,398
+VIT_D_60,Vitamin D 60ct,Health,7,9.99,3.5,0,0.0,162
+VIT_D_60,Vitamin D 60ct,Health,8,9.99,3.5,0,0.0,183
+VIT_D_60,Vitamin D 60ct,Health,9,9.99,3.5,0,0.0,175
+VIT_D_60,Vitamin D 60ct,Health,10,9.99,3.5,0,0.0,186
+VIT_D_60,Vitamin D 60ct,Health,11,9.99,3.5,0,0.0,179
+VIT_D_60,Vitamin D 60ct,Health,12,9.99,3.5,0,0.0,184
+VIT_CAL_90,Calcium + 90ct,Health,1,12.32,5.2,1,0.15,293
+VIT_CAL_90,Calcium + 90ct,Health,2,14.49,5.2,0,0.0,135
+VIT_CAL_90,Calcium + 90ct,Health,3,14.49,5.2,0,0.0,143
+VIT_CAL_90,Calcium + 90ct,Health,4,14.49,5.2,0,0.0,156
+VIT_CAL_90,Calcium + 90ct,Health,5,14.49,5.2,0,0.0,163
+VIT_CAL_90,Calcium + 90ct,Health,6,14.49,5.2,0,0.0,144
+VIT_CAL_90,Calcium + 90ct,Health,7,14.49,5.2,0,0.0,138
+VIT_CAL_90,Calcium + 90ct,Health,8,14.49,5.2,0,0.0,147
+VIT_CAL_90,Calcium + 90ct,Health,9,14.49,5.2,0,0.0,151
+VIT_CAL_90,Calcium + 90ct,Health,10,14.49,5.2,0,0.0,154
+VIT_CAL_90,Calcium + 90ct,Health,11,12.32,5.2,1,0.15,305
+VIT_CAL_90,Calcium + 90ct,Health,12,14.49,5.2,0,0.0,162
+VIT_MULTI,Multivitamin 100ct,Health,1,19.99,8.0,0,0.0,217
+VIT_MULTI,Multivitamin 100ct,Health,2,19.99,8.0,0,0.0,240
+VIT_MULTI,Multivitamin 100ct,Health,3,19.99,8.0,0,0.0,219
+VIT_MULTI,Multivitamin 100ct,Health,4,16.99,8.0,1,0.15,434
+VIT_MULTI,Multivitamin 100ct,Health,5,19.99,8.0,0,0.0,214
+VIT_MULTI,Multivitamin 100ct,Health,6,19.99,8.0,0,0.0,196
+VIT_MULTI,Multivitamin 100ct,Health,7,19.99,8.0,0,0.0,215
+VIT_MULTI,Multivitamin 100ct,Health,8,19.99,8.0,0,0.0,221
+VIT_MULTI,Multivitamin 100ct,Health,9,15.99,8.0,1,0.2,481
+VIT_MULTI,Multivitamin 100ct,Health,10,19.99,8.0,0,0.0,221
+VIT_MULTI,Multivitamin 100ct,Health,11,19.99,8.0,0,0.0,235
+VIT_MULTI,Multivitamin 100ct,Health,12,19.99,8.0,0,0.0,204
+ALM8,Roasted Almonds 8oz,Nuts,1,5.5,3.4,0,0.0,597
+ALM8,Roasted Almonds 8oz,Nuts,2,5.5,3.4,0,0.0,702
+ALM8,Roasted Almonds 8oz,Nuts,3,5.5,3.4,0,0.0,639
+ALM8,Roasted Almonds 8oz,Nuts,4,5.5,3.4,0,0.0,729
+ALM8,Roasted Almonds 8oz,Nuts,5,5.5,3.4,0,0.0,682
+ALM8,Roasted Almonds 8oz,Nuts,6,4.68,3.4,1,0.15,1335
+ALM8,Roasted Almonds 8oz,Nuts,7,5.5,3.4,0,0.0,676
+ALM8,Roasted Almonds 8oz,Nuts,8,5.5,3.4,0,0.0,695
+ALM8,Roasted Almonds 8oz,Nuts,9,5.5,3.4,0,0.0,637
+ALM8,Roasted Almonds 8oz,Nuts,10,4.4,3.4,1,0.2,1429
+ALM8,Roasted Almonds 8oz,Nuts,11,5.5,3.4,0,0.0,669
+ALM8,Roasted Almonds 8oz,Nuts,12,5.5,3.4,0,0.0,639
+ALM16,Roasted Almonds 16oz,Nuts,1,9.0,5.2,0,0.0,511
+ALM16,Roasted Almonds 16oz,Nuts,2,9.0,5.2,0,0.0,498
+ALM16,Roasted Almonds 16oz,Nuts,3,9.0,5.2,0,0.0,444
+ALM16,Roasted Almonds 16oz,Nuts,4,9.0,5.2,0,0.0,534
+ALM16,Roasted Almonds 16oz,Nuts,5,9.0,5.2,0,0.0,546
+ALM16,Roasted Almonds 16oz,Nuts,6,9.0,5.2,0,0.0,542
+ALM16,Roasted Almonds 16oz,Nuts,7,9.0,5.2,0,0.0,484
+ALM16,Roasted Almonds 16oz,Nuts,8,9.0,5.2,0,0.0,509
+ALM16,Roasted Almonds 16oz,Nuts,9,9.0,5.2,0,0.0,512
+ALM16,Roasted Almonds 16oz,Nuts,10,9.0,5.2,0,0.0,461
+ALM16,Roasted Almonds 16oz,Nuts,11,7.65,5.2,1,0.15,1048
+ALM16,Roasted Almonds 16oz,Nuts,12,9.0,5.2,0,0.0,489
+ALM32,Roasted Almonds 32oz,Nuts,1,16.0,9.5,0,0.0,435
+ALM32,Roasted Almonds 32oz,Nuts,2,12.8,9.5,1,0.2,1005
+ALM32,Roasted Almonds 32oz,Nuts,3,16.0,9.5,0,0.0,487
+ALM32,Roasted Almonds 32oz,Nuts,4,16.0,9.5,0,0.0,468
+ALM32,Roasted Almonds 32oz,Nuts,5,16.0,9.5,0,0.0,405
+ALM32,Roasted Almonds 32oz,Nuts,6,16.0,9.5,0,0.0,435
+ALM32,Roasted Almonds 32oz,Nuts,7,16.0,9.5,0,0.0,471
+ALM32,Roasted Almonds 32oz,Nuts,8,16.0,9.5,0,0.0,418
+ALM32,Roasted Almonds 32oz,Nuts,9,16.0,9.5,0,0.0,462
+ALM32,Roasted Almonds 32oz,Nuts,10,16.0,9.5,0,0.0,459
+ALM32,Roasted Almonds 32oz,Nuts,11,16.0,9.5,0,0.0,429
+ALM32,Roasted Almonds 32oz,Nuts,12,16.0,9.5,0,0.0,444
+PIS8,Salted Pistachios 8oz,Nuts,1,6.0,3.8,0,0.0,713
+PIS8,Salted Pistachios 8oz,Nuts,2,6.0,3.8,0,0.0,712
+PIS8,Salted Pistachios 8oz,Nuts,3,6.0,3.8,0,0.0,700
+PIS8,Salted Pistachios 8oz,Nuts,4,4.8,3.8,1,0.2,1611
+PIS8,Salted Pistachios 8oz,Nuts,5,6.0,3.8,0,0.0,693
+PIS8,Salted Pistachios 8oz,Nuts,6,6.0,3.8,0,0.0,718
+PIS8,Salted Pistachios 8oz,Nuts,7,6.0,3.8,0,0.0,658
+PIS8,Salted Pistachios 8oz,Nuts,8,6.0,3.8,0,0.0,660
+PIS8,Salted Pistachios 8oz,Nuts,9,6.0,3.8,0,0.0,684
+PIS8,Salted Pistachios 8oz,Nuts,10,6.0,3.8,0,0.0,702
+PIS8,Salted Pistachios 8oz,Nuts,11,6.0,3.8,0,0.0,721
+PIS8,Salted Pistachios 8oz,Nuts,12,6.0,3.8,0,0.0,762
+PIS16,Salted Pistachios 16oz,Nuts,1,8.8,6.5,1,0.2,954
+PIS16,Salted Pistachios 16oz,Nuts,2,11.0,6.5,0,0.0,436
+PIS16,Salted Pistachios 16oz,Nuts,3,11.0,6.5,0,0.0,430
+PIS16,Salted Pistachios 16oz,Nuts,4,11.0,6.5,0,0.0,421
+PIS16,Salted Pistachios 16oz,Nuts,5,11.0,6.5,0,0.0,389
+PIS16,Salted Pistachios 16oz,Nuts,6,11.0,6.5,0,0.0,402
+PIS16,Salted Pistachios 16oz,Nuts,7,11.0,6.5,0,0.0,412
+PIS16,Salted Pistachios 16oz,Nuts,8,11.0,6.5,0,0.0,429
+PIS16,Salted Pistachios 16oz,Nuts,9,11.0,6.5,0,0.0,421
+PIS16,Salted Pistachios 16oz,Nuts,10,11.0,6.5,0,0.0,440
+PIS16,Salted Pistachios 16oz,Nuts,11,11.0,6.5,0,0.0,429
+PIS16,Salted Pistachios 16oz,Nuts,12,11.0,6.5,0,0.0,421
+PIS32,Salted Pistachios 32oz,Nuts,1,18.0,11.0,0,0.0,392
+PIS32,Salted Pistachios 32oz,Nuts,2,18.0,11.0,0,0.0,383
+PIS32,Salted Pistachios 32oz,Nuts,3,18.0,11.0,0,0.0,388
+PIS32,Salted Pistachios 32oz,Nuts,4,14.4,11.0,1,0.2,858
+PIS32,Salted Pistachios 32oz,Nuts,5,18.0,11.0,0,0.0,391
+PIS32,Salted Pistachios 32oz,Nuts,6,18.0,11.0,0,0.0,368
+PIS32,Salted Pistachios 32oz,Nuts,7,18.0,11.0,0,0.0,415
+PIS32,Salted Pistachios 32oz,Nuts,8,18.0,11.0,0,0.0,359
+PIS32,Salted Pistachios 32oz,Nuts,9,18.0,11.0,0,0.0,357
+PIS32,Salted Pistachios 32oz,Nuts,10,18.0,11.0,0,0.0,402
+PIS32,Salted Pistachios 32oz,Nuts,11,18.0,11.0,0,0.0,406
+PIS32,Salted Pistachios 32oz,Nuts,12,15.3,11.0,1,0.15,817
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,1,9.5,5.5,0,0.0,464
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,2,9.5,5.5,0,0.0,499
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,3,9.5,5.5,0,0.0,529
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,4,9.5,5.5,0,0.0,483
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,5,9.5,5.5,0,0.0,503
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,6,9.5,5.5,0,0.0,494
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,7,9.5,5.5,0,0.0,528
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,8,9.5,5.5,0,0.0,478
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,9,9.5,5.5,0,0.0,523
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,10,9.5,5.5,0,0.0,485
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,11,8.07,5.5,1,0.15,997
+MIXNUT16,Mixed Nuts Variety 16oz,Nuts,12,9.5,5.5,0,0.0,525
